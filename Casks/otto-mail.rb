@@ -1,6 +1,6 @@
 cask "otto-mail" do
-  version "0.4.2"
-  sha256 "e7ee1185588a2471f6ccf41058331a65a9da297a7ec15f31cef7cd75cf7ac206"
+  version "0.5.0"
+  sha256 "1771292e8550bb230e50fc4bda4ec57ff62564c629b02aa7368ae52a6902f1cd"
 
   url "https://github.com/thielem/homebrew-tap/releases/download/otto-mail-v#{version}/OttoMail-#{version}.zip"
   name "Otto Mail"
